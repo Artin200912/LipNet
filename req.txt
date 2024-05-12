@@ -1,0 +1,7 @@
+tensorflow
+numpy
+maplotlib
+pandas
+opencv-python
+imageio
+gdown
