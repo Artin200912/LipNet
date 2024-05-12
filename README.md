@@ -17,7 +17,7 @@ LipNet is a deep learning model designed to recognize speech from video of lips.
 - TensorFlow 2.0 or higher
 - OpenCV for video processing (optional, for real-time applications)
 
-### Installation
+### Installation & usage
 
 1. **Clone the repository**:
 ```
